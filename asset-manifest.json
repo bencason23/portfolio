@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bencason23/portfolio.git/static/css/main.f37c66af.css",
+    "main.js": "/bencason23/portfolio.git/static/js/main.62b2ca3f.js",
+    "static/js/453.acca0757.chunk.js": "/bencason23/portfolio.git/static/js/453.acca0757.chunk.js",
+    "index.html": "/bencason23/portfolio.git/index.html",
+    "main.f37c66af.css.map": "/bencason23/portfolio.git/static/css/main.f37c66af.css.map",
+    "main.62b2ca3f.js.map": "/bencason23/portfolio.git/static/js/main.62b2ca3f.js.map",
+    "453.acca0757.chunk.js.map": "/bencason23/portfolio.git/static/js/453.acca0757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f37c66af.css",
+    "static/js/main.62b2ca3f.js"
+  ]
+}
