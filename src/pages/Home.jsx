@@ -42,7 +42,7 @@ const Profile = () => {
 
       {/* Profile Section */}
       <div className="profile-box">
-        <img src="pic1.jpg" alt="Profile" className="profile-picture" />
+        <img src="../public/pic1.jpg" alt="Profile" className="profile-picture" />
         <h1 className="job-title">Benson .C. Kamau</h1>
       </div>
 
